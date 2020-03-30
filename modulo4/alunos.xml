@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curso>
+  <aluno id="">
+    <nome>Pedro</nome>
+    <cidade>São Paulo</cidade>
+  </aluno>
+  <aluno id="">
+    <nome>Ana</nome>
+    <cidade>São Paulo</cidade>
+  </aluno>
+  <aluno id="">
+    <nome>carla</nome>
+    <cidade>Curitiba</cidade>
+  </aluno>
+  <aluno id="">
+    <nome>Marcos</nome>
+    <cidade>Recife</cidade>
+  </aluno>
+</curso>
